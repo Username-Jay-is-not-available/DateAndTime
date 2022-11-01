@@ -47,6 +47,8 @@ For input and output, it utilizes just your standard terminal. You start the pro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 UML:
 
+![HW8 SW](https://user-images.githubusercontent.com/102687512/199153352-784ebf48-737d-4921-853b-bc3e7099f0bd.jpeg)
+
 
 
 
