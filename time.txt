@@ -1,0 +1,8 @@
+LosAngeles 
+5
+Corvallis
+5
+Portland
+5
+NewYork
+8
